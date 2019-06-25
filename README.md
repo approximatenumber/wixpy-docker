@@ -1,3 +1,6 @@
+![Docker Build Status](https://img.shields.io/docker/build/approximatenumber/wixpy-docker.svg?style=flat-square)
+![Docker Automated build](https://img.shields.io/docker/automated/approximatenumber/wixpy-docker.svg?style=flat-square)
+
 # wixpy-docker
 
 Docker image for [wix.py](https://github.com/sk1project/wixpy) tool.
